@@ -1,0 +1,43 @@
+.content{
+ width: 60%;
+ float: left;
+ padding: 0 0 0 30px;
+ background-color: red;
+}
+.sidebar{
+ width: 40%;
+ float: right;
+ padding: 0 10px 0 0;
+ background-color:green;
+ 
+}
+h1{
+ text-align: center;
+ padding-bottom: 10px;
+ border-bottom: 1px solid yellow ;
+
+}
+h2{
+ color: white;
+ font-style: Bold;
+
+}
+
+h4{
+ color:yellow;
+ font-size: 15px;
+ font-style: italic;
+}
+body{
+ background-color: red;
+}
+a{
+ color: #bff207;
+}
+body{
+ color: rgb(173, 255, 105);
+}
+input{
+ background-color: indigo;
+ color: ivory;
+}
